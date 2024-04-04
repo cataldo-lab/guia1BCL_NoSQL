@@ -23,7 +23,8 @@ Para la consultas del CRUD se deben abrir con los comandos:
             
             'pyhton3 consulta_ud_2.py' --> Delete
             
-            
+Esta es la base de datos que se usara: 
+
             document = [
                     {"nombre": "Juan", "edad": 30, "Ingreso": 2019, "Ciudad": "Concepcion", "Region": "BioBio"},
                     {"nombre": "Pedro", "edad": 25, "Ingreso": 2018, "Ciudad": "Concepcion", "Region": "BioBio"},
