@@ -16,9 +16,12 @@ Se debe abrir primero la carpeta: conectar_mongo.py , con el comando: python3 co
 'python3 conectar_mongo.py' -->Create
 
 Para la consultas del CRUD se deben abrir con los comandos:
-'python3 consulta_mongo.py' --> Read
-'python3 consulta_ud_1.py' -->  Update
-'pyhton3 consulta_ud_2.py' --> Delete
+
+             'python3 consulta_mongo.py' --> Read
+             
+            'python3 consulta_ud_1.py' -->  Update
+            
+            'pyhton3 consulta_ud_2.py' --> Delete
 
 
 
